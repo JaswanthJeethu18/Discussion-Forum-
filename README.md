@@ -30,5 +30,5 @@ To ensure a respectful and inclusive environment, the forum employs a moderation
 The forum distinguishes between different user roles, such as regular users, moderators, and administrators. Each role has distinct privileges, ensuring that the forum is well-maintained and user interactions are productive.
 
 ## Conclusion
-The Interactive Discussion Forum created by [Your Name] offers an inclusive space for individuals to share knowledge, seek advice, and engage in enriching discussions. With its user-friendly interface and comprehensive set of features, the forum fosters a sense of community and facilitates meaningful interactions among users with shared interests.
+The Interactive Discussion Forum offers an inclusive space for individuals to share knowledge, seek advice, and engage in enriching discussions. With its user-friendly interface and comprehensive set of features, the forum fosters a sense of community and facilitates meaningful interactions among users with shared interests.
 
